@@ -17,22 +17,14 @@
 ---
 
 ### ✍️ Authors
-**Jiangming Shi**<sup>1,2</sup>,  
-**Xiangbo Yin**<sup>1</sup>,  
-**Yeyun Chen**<sup>1,2</sup>,  
-**Yachao Zhang**<sup>1</sup>,  
-**Zhizhong Zhang**<sup>3</sup>,  
-**Yuan Xie**<sup>2,3</sup>,  
-**Yanyun Qu**<sup>1†</sup>  
+**Jiangming Shi**<sup>1,2</sup>, **Xiangbo Yin**<sup>2</sup>, **Yeyun Chen**<sup>1,2</sup>, **Yachao Zhang**<sup>2</sup>, **Zhizhong Zhang**<sup>3</sup>, **Yuan Xie**<sup>2,3</sup>, **Yanyun Qu**<sup>2†</sup>  
 
 † *Corresponding Author: [yyqu@xmu.edu.cn](mailto:yyqu@xmu.edu.cn)*
 
 ---
 
 ### 🏛️ Affiliations
-<sup>1</sup> *Key Laboratory of Multimedia Trusted Perception and Efficient Computing, Ministry of Education of China, School of Informatics, Xiamen University*  
-<sup>2</sup> *Shanghai Innovation Institute*  
-<sup>3</sup> *East China Normal University*
+<sup>1</sup> *Shanghai Innovation Institute* <sup>2</sup> *Xiamen University* <sup>3</sup> *East China Normal University*
 
 </div>
 
