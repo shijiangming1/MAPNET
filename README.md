@@ -41,7 +41,7 @@ This better reflects user intent than single-modal queries but presents two key 
 We introduce **MAPNet**, a robust and expressive network designed to overcome these limitations.  
 
 <div align="center">
-  <img src="./assets/mapnet_framework.png" width="90%" alt="MAPNet Framework">
+  <img src="assets/mapnet_framework.png" width="90%" alt="MAPNet Framework">
   <p><em>Overview of the proposed MAPNet architecture</em></p>
 </div>
 
