@@ -38,6 +38,12 @@ This better reflects user intent than single-modal queries but presents two key 
 1. **Insufficient multi-schema interaction** – existing methods fail to capture complex object–attribute relationships.  
 2. **Noisy negative interference** – mislabeled or semantically similar “negative” samples harm model convergence.
 
+We introduce **MAPNet**, a robust and expressive network designed to overcome these limitations.  
+
+<div align="center">
+  <img src="./assets/framework.png" width="90%" alt="MAPNet Framework">
+  <p><em>Overview of the proposed MAPNet architecture</em></p>
+</div>
 
 ### 🧩 Key Contributions
 - **Multi-Schema Interaction (MSI)**:  
