@@ -84,7 +84,7 @@ We introduce **MAPNet**, a robust and expressive network designed to overcome th
 
 ### Step 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/MAPNet.git
+git clone https://github.com/shijiangming1/MAPNET.git
 cd MAPNet
 ```
 
