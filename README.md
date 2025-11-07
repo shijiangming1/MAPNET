@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 MAPNet: Multi-Schema Proximity Network for Composed Image Retrieval  
+#  MAPNet: Multi-Schema Proximity Network for Composed Image Retrieval  
 
 **ICCV 2025**
 
